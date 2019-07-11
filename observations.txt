@@ -1,0 +1,15 @@
+Latitude vs. Max Temperature
+
+On average, throughout the seasons, cities closer to the equatorial center of the earth are on average both closer to the sun as well as being in a position to be in a more direct path to radiation from the sun. One would hypothesize these cities would have higher average temperatures. The empirical data observed from plotting temperatures vs latitudes of various cities does seem to agree with the hypothesis that cities closer to latitude 0 have higher temperatures on average.
+
+Latitude vs. Humidify
+
+As these cities closer to the equatorial center are warmer and in more direct contact to the sun's radiation, they typically possess more tropic and temperate type environments. Given these conditions, one could hypothesize these cities would be, on average, relatively more humid. The observable distribution when plotting latitude vs. humidity of various cities, with latitude 0 towards the center of the x axis, provides a somewhat parabolic distribution, with cities closer to latitude 0 having higher humidity on average compared to cities further from the equatorial center.
+
+Latitude vs. Cloudiness
+
+Piggy-backing off the previous statements, temperate environments provide a more humid atmosphere, and one could hypothesize that on average cloudiness would be more common in cities closer to the equatorial center. Observing the plot of latitude vs cloudiness seems to confirm this hypothesize, as clustering of higher % cloudiness is observed with cities near the equatorial center with cities further from the equator having less cloudiness. As a note, the data forms very rigid "line-like" clusters, suggesting the cloudiness index is heavily estimated.
+
+Latitude vs. Wind Speed
+
+The clustering suggests no correlation with average wind speed vs latitude.
